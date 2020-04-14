@@ -1,1 +1,10 @@
-
+{
+  "keman": {
+    "english": "eat",
+    "example": "keman inou kau?"
+  },
+  "tuteng": {
+    "english": "drink",
+    "example": "lok tuteng nyaam kau?"
+  }
+}
