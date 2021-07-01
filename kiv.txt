@@ -1,4 +1,3 @@
-pebun
 baih
 cumpur
 sabei
@@ -24,7 +23,6 @@ baih
 dabei
 lahabei
 tului
-mapun
 melei
 sabek
 jumit
@@ -61,10 +59,7 @@ mutek
 sadek
 idak
 agai
-matik
-sepitar
-igek
-jekan
+sepetar
 buyak
 perjaja
 lawaih
