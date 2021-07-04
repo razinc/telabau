@@ -4,4 +4,4 @@
 English to Melanau translation.
 
 ## Acknowledgment
-[CodeBrauer](https://github.com/CodeBrauer) - Provides [1000 most common words in English](https://github.com/CodeBrauer/1000-most-common-words/edit/master/1000-common-english-words.txt) which is the skeleton of [`words.csv`](https://github.com/razinc/telabau/blob/master/words.csv).
+[CodeBrauer](https://github.com/CodeBrauer) - Provides [1000 most common words in English](https://github.com/CodeBrauer/1000-most-common-words/edit/master/1000-common-english-words.txt) which is the skeleton of `words.csv`.
