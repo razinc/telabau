@@ -10,8 +10,6 @@ kelou
 mapun
 sai
 debei
-jahak
-taban
 madeu
 apek
 japan
@@ -23,7 +21,6 @@ baih
 dabei
 lahabei
 tului
-melei
 sabek
 jumit
 juah
@@ -63,7 +60,5 @@ buyak
 perjaja
 lawaih
 tuneh
-buduk
 un
-buta
 peyeng
